@@ -1,0 +1,10 @@
+package com.poc;
+
+import java.lang.Number;
+import java.lang.Boolean;
+
+rule "Valdate Dual Approval"
+	dialect "mvel"
+	when
+	then
+end
